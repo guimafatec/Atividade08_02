@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atividade08_02</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="etCpf">CPF</string>
+    <string name="etNome">Nome</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="tvNome">Nome:</string>
+    <string name="tvCpf">CPF:</string>
+    <string name="tvRegiao">Região:</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
